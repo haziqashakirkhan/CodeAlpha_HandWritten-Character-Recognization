@@ -97,11 +97,9 @@ Predicted: 7
 MNIST-Project/
             │
             ├── model.py
-            ├── train.py
-            ├── test.py
             ├── requirements.
             ├── README.md
-            └── dataset (auto-downloaded)
+            └── MIT License
 
 ---
 
