@@ -95,13 +95,13 @@ Predicted: 7
 
 ##  Project Structure
 MNIST-Project/
-│
-├── model.py
-├── train.py
-├── test.py
-├── requirements.txt
-├── README.md
-└── dataset (auto-downloaded)
+            │
+            ├── model.py
+            ├── train.py
+            ├── test.py
+            ├── requirements.
+            ├── README.md
+            └── dataset (auto-downloaded)
 
 ---
 
